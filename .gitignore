@@ -5,7 +5,3 @@ __pycache__/
 PlantVillage/
 PlantVillage.zip
 
-plant_disease_results/
-*.png
-*.pth
-*.pkl
