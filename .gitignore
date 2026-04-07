@@ -1,0 +1,11 @@
+__pycache__/
+.streamlit/
+.ipynb_checkpoints/
+
+PlantVillage/
+PlantVillage.zip
+
+plant_disease_results/
+*.png
+*.pth
+*.pkl
